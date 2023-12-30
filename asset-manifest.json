@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-food/static/css/main.fca7039f.css",
+    "main.js": "/react-food/static/js/main.f972bb55.js",
+    "index.html": "/react-food/index.html",
+    "main.fca7039f.css.map": "/react-food/static/css/main.fca7039f.css.map",
+    "main.f972bb55.js.map": "/react-food/static/js/main.f972bb55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fca7039f.css",
+    "static/js/main.f972bb55.js"
+  ]
+}
